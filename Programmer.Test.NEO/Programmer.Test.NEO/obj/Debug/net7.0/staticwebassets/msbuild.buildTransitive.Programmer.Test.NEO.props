@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Programmer.Test.NEO.props" />
+</Project>
